@@ -201,15 +201,7 @@
             </div>
           </div>
 
-          <div class="col-md-4">
-            <div class="contact-email">
-              <i class="ion-ios-email-outline"></i>
-              <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@example.com</a></p>
-            </div>
-          </div>
-
-        </div>
+            
 
         <div class="form">
           <div id="sendmessage">Your message has been sent. Thank you!</div>
