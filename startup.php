@@ -8,11 +8,7 @@
             
           
     </section>
-    <ol class="breadcrumb">
-  <li><a href="#">Home</a></li>
-  <li><a href="#">Library</a></li>
-  <li class="active">Data</li>
-</ol>
+    
     
     
     
@@ -28,49 +24,55 @@
       </div>
     </section>
     
-    
-    <div class="container">
-    <div class="row">
-        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <div class="box">
-                <div class="box-icon">
-                    <img src="img/clients/client-1.png">
-                </div>
-                <div class="info">
-                    <h4 class="text-center">Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-                    <a href="" class="btn">Link</a>
-                </div>
-            </div>
-        </div>
+    <section id="clients" class="wow fadeInUp">
+      <div class="container">
+
         
-        
-        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <div class="box">
-                <div class="box-icon">
-                    <img src="img/clients/client-1.png">
-                </div>
-                <div class="info">
-                    <h4 class="text-center">Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-                    <a href="" class="btn">Link</a>
-                </div>
+
+        <div class="owl-carousel clients-carousel" width="200">
+          <div class="col-md-12">
+              <img src="img/clients/client-1.png">
+              
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
             </div>
-        </div>
-        
-        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <div class="box">
-                <div class="box-icon">
-                    <img src="img/clients/client-1.png">
-                </div>
-                <div class="info">
-                    <h4 class="text-center">Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-                    <a href="" class="btn">Link</a>
-                </div>
+            
+            <div class="col-md-12">
+              <img src="img/clients/client-1.png">
+              
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
             </div>
-        </div>
-	</div>
-</div>
+            <div class="col-md-12">
+              <img src="img/clients/client-1.png">
+              
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            </div>
+            <div class="col-md-12">
+              <img src="img/clients/client-1.png">
+              
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            </div>
+            <div class="col-md-12">
+          <img src="img/clients/client-2.png" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+          <div class="col-md-12">
+          <img src="img/clients/client-2.png" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+          <div class="col-md-12">
+          <img src="img/clients/client-2.png" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+          <div class="col-md-12">
+          <img src="img/clients/client-2.png" alt="">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+                  </div>
+
+      </div>
+    </section>
     
        <?php include('footer.php'); ?>
