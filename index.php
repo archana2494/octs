@@ -12,7 +12,7 @@
         <div class="carousel-inner" role="listbox">
 
           <div class="carousel-item active">
-            <div class="carousel-background"><img src="img/intro-carousel/header.jpg" alt=""></div>
+            <div class="carousel-background"><img src="img/intro-carousel/banner4.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>We are professional</h2>
@@ -24,7 +24,7 @@
           </div>
 
           <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/2.jpg" alt=""></div>
+            <div class="carousel-background"><img src="img/intro-carousel/banner3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>At vero eos et accusamus</h2>
@@ -34,13 +34,9 @@
               </div>
             </div>
           </div>
-
-          
-
-          
-
+            
           <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/5.jpg" alt=""></div>
+            <div class="carousel-background"><img src="img/intro-carousel/banner2.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>Magnam aliquam quaerat</h2>
@@ -169,12 +165,14 @@
       </div>
     </section><!-- #clients -->
 
-    <!--==========================
-      Clients Section
-    ============================-->
-    <!--    <!--==========================
-      Contact Section
-    ============================-->
+    
+      
+      
+      
+      
+      
+      
+      
     <section id="contact" class="section-bg wow fadeInUp">
       <div class="container">
 

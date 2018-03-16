@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Arena </title>
+  <title>Omniscient Ventures</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -35,7 +35,7 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto"><img src="img/logo.png"></a></h1>
+        <a href="index.php" class="scrollto"><img src="img/white-logo.png"></a>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
@@ -61,3 +61,6 @@
       </nav><!-- #nav-menu-container -->
     </div>
   </header>
+	
+	
+	
