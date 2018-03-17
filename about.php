@@ -11,7 +11,7 @@
           
     </section>
     
-   <div class="bc-icons pb-4">
+   <!--<div class="bc-icons pb-4">
 
                                 
                                 <ol class="breadcrumb red darken-4">
@@ -20,7 +20,7 @@
                                     <li class="breadcrumb-item active">Data</li>
                                 </ol>
 
-                            </div>   
+                            </div>   -->
     
     
     
@@ -77,7 +77,7 @@
 
       </div>
     </section><!-- #about -->
-<section id="team">
+	<section id="team">
       <div class="container">
         <div class="section-header wow fadeInUp">
           <h3>Team</h3>

@@ -18,40 +18,46 @@
         <div class="carousel-inner" role="listbox">
 
           <div class="carousel-item active">
-            <div class="carousel-background"><img src="img/intro-carousel/banner4.jpg" alt=""></div>
+            <div class="carousel-background"><img src="img/intro-carousel/banner2.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>We are professional</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-                  <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                <a href="https://docs.google.com/forms/d/1PYJmukxVddSH6D9u3SienffaMUIBS9SDHNlZjgnyqtw/edit?usp=sharing" class="btn-get-started scrollto">For Startups</a>
+                  <a href="#featured-services" class="btn-get-started scrollto">For Investor</a>
               </div>
             </div>
           </div>
 
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/banner3.jpg" alt=""></div>
+			
+			<div class="carousel-item">
+            <div class="carousel-background"><img src="img/intro-carousel/banner6.png" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>At vero eos et accusamus</h2>
                 <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-                  <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                <a href="https://docs.google.com/forms/d/1PYJmukxVddSH6D9u3SienffaMUIBS9SDHNlZjgnyqtw/edit?usp=sharing" class="btn-get-started scrollto">For Startups</a>
+                  <a href="#featured-services" class="btn-get-started scrollto">For Investor</a>
               </div>
             </div>
           </div>
+			
             
           <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/banner2.jpg" alt=""></div>
+            <div class="carousel-background"><img src="img/intro-carousel/banner4.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>Magnam aliquam quaerat</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-                  <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                <a href="https://docs.google.com/forms/d/1PYJmukxVddSH6D9u3SienffaMUIBS9SDHNlZjgnyqtw/edit?usp=sharing" class="btn-get-started scrollto">For Startups </a>
+                  <a href="#featured-services" class="btn-get-started scrollto">For Investor</a>
               </div>
             </div>
           </div>
+			
+			
+		
+			
 
         </div>
 
@@ -70,7 +76,8 @@
   </section><!-- #intro -->
 
   <main id="main">
-
+	  
+	  
     
 
     <!--==========================
@@ -172,7 +179,11 @@
     </section><!-- #clients -->
 
     
+	  
+	  
+			  
       
+<<<<<<< HEAD
       
       
       
@@ -235,6 +246,9 @@
 
       </div>
     </section><!-- #contact -->
+=======
+   <!-- #contact -->
+>>>>>>> 1ab6fe7448317263d9cc5d84ec52cf505ff3511b
 
   </main>
 

@@ -30,11 +30,11 @@
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+              <a href="https://twitter.com/OmniscientVent1" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.facebook.com/officialomniscientventures/" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.instagram.com/officialomniscientventures/" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://plus.google.com/118368248906251169851" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="https://www.linkedin.com/company/o-c-t-s/" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
 
           </div>
