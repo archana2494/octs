@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Omniscient Ventures</title>
+  <title> Omniscient Ventures</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -47,8 +47,18 @@
           <li><a href="services.php">Services</a></li>
           <li><a href="mentor.php">Mentor</a></li>
           <li><a href="startup.php">Startup</a></li>
+			
+			
+			
+		<li class="menu-has-children"><a href="events.php">Startup</a>
+            <ul>
+              <li><a href="#"></a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              
+            </ul>
+          </li>	
             
-          <li class="menu-has-children"><a href="">Events</a>
+          <li class="menu-has-children"><a href="events.php">Events</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li><a href="#">Drop Down 3</a></li>

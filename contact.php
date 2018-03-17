@@ -41,15 +41,12 @@
               <p><a href="mailto:info@example.com">info@example.com</a></p>
             </div>
           </div>
-
         </div>
           
           
-         <iframe src="//www.google.com/maps/embed/v1/place?q=C28C, LG Floor, The Design Village, Sector 8, Near Paytm Head Office, C Block, Sector 8, Noida, Uttar Pradesh 201301&zoom=17&key=AIzaSyAToKZn6cRrKZ-g5xRrFqhEaKNYL6GXrUY" width="100%" height="300px">
-		  </iframe>
+         <iframe src="//www.google.com/maps/embed/v1/place?q=C28C, LG Floor, The Design Village, Sector 8, Near Paytm Head Office, C Block, Sector 8, Noida, Uttar Pradesh 201301&zoom=17&key=AIzaSyAToKZn6cRrKZ-g5xRrFqhEaKNYL6GXrUY" width="100%" height="300px" style="border: 1px solid #c3e5e3;">
+		 </iframe>
           
-          
-
         <div class="form">
           <div id="sendmessage">Your message has been sent. Thank you!</div>
           <div id="errormessage"></div>
@@ -81,8 +78,7 @@
 
     
     
-    
-    
+   
     
     
      <?php include('footer.php'); ?>
