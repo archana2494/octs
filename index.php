@@ -1,4 +1,10 @@
- <?php include('header.php'); ?>
+ <?php
+   $page="home";
+ include('header.php');
+
+
+
+ ?>
 
   <!--==========================
     Intro Section

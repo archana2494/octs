@@ -1,3 +1,4 @@
+<?php ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,13 +43,13 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="index.php">Home</a></li>
-          <li><a href="about.php">About Us</a></li>
-          <li><a href="services.php">Services</a></li>
-          <li><a href="mentor.php">Mentor</a></li>
-          <li><a href="startup.php">Startup</a></li>
+          <li class=<?php if(@$page=="home") echo "menu-active"?>><a href="index.php">Home</a></li>
+          <li class=<?php if(@$page=="about") echo "menu-active"?>><a href="about.php">About Us</a></li>
+          <li class=<?php if(@$page=="services") echo "menu-active"?>><a href="services.php">Services</a></li>
+          <li class=<?php if(@$page=="mentor") echo "menu-active"?>><a href="mentor.php">Mentor</a></li>
+          <li class=<?php if(@$page=="startup") echo "menu-active"?>><a href="startup.php">Startup</a></li>
             
-          <li class="menu-has-children"><a href="">Events</a>
+          <li class="menu-has-children <?php if(@$page=="events") echo "menu-active"?>" ><a href="">Events</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li><a href="#">Drop Down 3</a></li>

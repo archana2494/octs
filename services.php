@@ -1,4 +1,5 @@
- <?php include('header.php'); ?>    
+ <?php $page="services";
+ include('header.php'); ?>
     
     
     <section id="">

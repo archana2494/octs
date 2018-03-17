@@ -11,10 +11,10 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="services.php">Services</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="">Terms of service</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
