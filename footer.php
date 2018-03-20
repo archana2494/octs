@@ -4,8 +4,8 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>Arena</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin</p>
+            <h3>The Arena</h3>
+            <p>We work with start-ups at different stages of development and funding, we nurture them, train them and help them to acquire resources so that they can develop themselves and reach a point where with our help they get different levels of funding through our wide panel of investors.</p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
@@ -14,8 +14,11 @@
               <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="about.php">About us</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="services.php">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="">Terms of service</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="mentor.php">Mentor</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="startup.php">Startup</a></li>
+			  <li><i class="icon-ios-arrow-right"></i><a href="events.php">Events</a></li>
+			  <li><i class="icon-ios-arrow-right"></i><a href="contact.php">Contact</a></li>
+				
             </ul>
           </div>
 
@@ -29,7 +32,7 @@
               <strong>Email:</strong> info@example.com<br>
             </p>
 
-            <div class="social-links">
+            <div class="social-links box wow bounceInUp">
               <a href="https://twitter.com/OmniscientVent1" class="twitter"><i class="fa fa-twitter"></i></a>
               <a href="https://www.facebook.com/officialomniscientventures/" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="https://www.instagram.com/officialomniscientventures/" class="instagram"><i class="fa fa-instagram"></i></a>

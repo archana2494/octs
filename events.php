@@ -3,7 +3,7 @@
 
 <section id="">
     
-           <img src="img/about%20(3).png" alt="" width="100%">
+           <img src="img/banners/events_banner.jpg" alt="" width="100%">
             
           
     </section>

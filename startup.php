@@ -6,9 +6,8 @@
     
     <section id="">
     
-           <img src="img/about%20(3).png" alt="" width="100%">
-            
-          
+           <img src="img/banners/startups_banner.jpg" alt="" width="100%">
+                  
     </section>
     
     
@@ -20,11 +19,16 @@
         <header class="section-header">
           <h3>Startup</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        </header>
-
-        
+        </header> 
       </div>
     </section>
+
+
+
+
+
+
+
     
     <section id="clients" class="wow fadeInUp">
       <div class="container">
