@@ -1,12 +1,12 @@
  <?php
-  $page="startup";
+  $page="blog";
  include('header.php'); ?>
     
     
     
     <section id="">
     
-           <img src="img/banners/startups_banner.jpg" alt="" width="100%">
+           <img src="img/banners/blog_banner.png" alt="" width="100%">
                   
     </section>
     
@@ -16,63 +16,63 @@
     <section id="blog">
 
 
-		<div class="container">
+	<div class="container">
       <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
+        
           <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-                Man must explore, and this is exploration at its greatest
-              </h2>
-				<p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
-              on September 24, 2018</p>
-				
-              <h3 class="post-subtitle">
-                Problems look mighty small from 150 miles up
-              </h3>
-				<img src="img/intro-carousel/banner1.jpg" width="100%;">
-            </a>
+		  <div class="row">
+			  
+			  <div class="col-md-4"><img src="img/seedFunding.png" width="100%"></div>
+			  <div class="col-md-8"><p class="post-meta">Posted by
+              
+              on September 18, 2018</p>
+			  
+			  <p>Start-up businesses are primarily equipped with idea stage. Biggest hurdle comes through after this only. How to tackle financial needs? Most of the entrepreneurs are not wealthy enough to bootstrap their start-up idea. Even if they are, they need investment at some point in their work. There comes the role of Seed Funding.<a href="#">ReadMore</a></p>
+			  </div>
+			  </div>
             
           </div>
           <hr>
           <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-                I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
-              </h2>
-            </a>
-            <p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
+		  <div class="row">
+			  
+			  <div class="col-md-4"><img src="img/clients/client-2.png"></div>
+			  <div class="col-md-8"><p class="post-meta">Posted by
+              
               on September 18, 2018</p>
+			  
+			  <p>Start-up businesses are primarily equipped with idea stage. Biggest hurdle comes through after this only. How to tackle financial needs? Most of the entrepreneurs are not wealthy enough to bootstrap their start-up idea. Even if they are, they need investment at some point in their work. There comes the role of Seed Funding.</p>
+			  </div>
+			  </div>
+            
           </div>
           <hr>
           <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-                Science has not yet mastered prophecy
-              </h2>
-              <h3 class="post-subtitle">
-                We predict too much for the next year and yet far too little for the next ten.
-              </h3>
-            </a>
-            <p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
-              on August 24, 2018</p>
+		  <div class="row">
+			  
+			  <div class="col-md-4"><img src="img/clients/client-2.png"></div>
+			  <div class="col-md-8"><p class="post-meta">Posted by
+              
+              on September 18, 2018</p>
+			  
+			  <p>Start-up businesses are primarily equipped with idea stage. Biggest hurdle comes through after this only. How to tackle financial needs? Most of the entrepreneurs are not wealthy enough to bootstrap their start-up idea. Even if they are, they need investment at some point in their work. There comes the role of Seed Funding.</p>
+			  </div>
+			  </div>
+            
           </div>
           <hr>
           <div class="post-preview">
-            <a href="post.html">
-              <h2 class="post-title">
-                Failure is not an option
-              </h2>
-              <p>
-                Many say exploration is part of our destiny, but it’s actually our duty to future generations.
-              </p>
-            </a>
-            <p class="post-meta">Posted by
-              <a href="#">Start Bootstrap</a>
-              on July 8, 2018</p>
+		  <div class="row">
+			  
+			  <div class="col-md-4"><img src="img/clients/client-2.png"></div>
+			  <div class="col-md-8"><p class="post-meta">Posted by
+              
+              on September 18, 2018</p>
+			  
+			  <p>Start-up businesses are primarily equipped with idea stage. Biggest hurdle comes through after this only. How to tackle financial needs? Most of the entrepreneurs are not wealthy enough to bootstrap their start-up idea. Even if they are, they need investment at some point in their work. There comes the role of Seed Funding.</p>
+			  </div>
+			  </div>
+            
           </div>
           <hr>
           <!-- Pager -->
@@ -81,8 +81,11 @@
           </div>
         </div>
       </div>
-    </div>
+    
 
 		
 </section>
+
+
+
        <?php include('footer.php'); ?>

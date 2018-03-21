@@ -16,8 +16,8 @@
               <li><i class="ion-ios-arrow-right"></i> <a href="services.php">Services</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="mentor.php">Mentor</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="startup.php">Startup</a></li>
-			  <li><i class="icon-ios-arrow-right"></i><a href="events.php">Events</a></li>
-			  <li><i class="icon-ios-arrow-right"></i><a href="contact.php">Contact</a></li>
+			  <li><i class="ion-ios-arrow-right"></i><a href="events.php">Events</a></li>
+			  <li><i class="ion-ios-arrow-right"></i><a href="contact.php">Contact</a></li>
 				
             </ul>
           </div>

@@ -48,17 +48,17 @@
           <li class=<?php if(@$page=="about") echo "menu-active"?>><a href="about.php">About Us</a></li>
           <li class=<?php if(@$page=="services") echo "menu-active"?>><a href="services.php">Services</a></li>
           <li class=<?php if(@$page=="mentor") echo "menu-active"?>><a href="mentor.php">Mentor</a></li>
-          <li class=<?php if(@$page=="startup") echo "menu-active"?>><a href="startup.php">Startup</a>
+          <li class="menu-has-children <?php if(@$page=="startup") echo " menu-active"?>"><a href="startup.php">Startup</a>
 			
 			<ul>
-              <li><a href="incubator.php">Incubator Program</a></li>
+              <li class=<?php if(@$page=="incubator") echo "menu-active"?>><a href="incubator.php">Incubator Program</a></li>
               <li><a href="Accelator.php">Accelerator program</a></li>
               
             </ul>
 			
-			</li>
+			</li> 
             
-          <li class="menu-has-children <?php if(@$page=="events") echo "menu-active"?>" ><a href="events.php">Events</a></li>
+          <li class="<?php if(@$page=="events") echo "menu-active"?>" ><a href="events.php">Events</a></li>
 			<li class=<?php if(@$page=="blog") echo "menu-active"?>><a href="blog.php">Blog</a></li>
             
           
@@ -68,5 +68,7 @@
     </div>
   </header>
 	
+
+
 	
 	

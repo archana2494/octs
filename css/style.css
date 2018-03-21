@@ -1595,55 +1595,56 @@ li.list
 team
 */
 
-#lets {
-  padding: 60px 0;
-}
-
-#lets img {
-  max-width: 100%;
-  opacity: 0.9;
-  transition: 0.3s;
-  padding: 15px 0;
-}
-
-#lets img:hover {
-  opacity: 1;
-}
-
-#lets .owl-nav, #lets .owl-dots {
-  margin-top: 5px;
-  text-align: center;
-}
-
-#lets .owl-dot {
-  display: inline-block;
-  margin: 0 5px;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  background-color: #ddd;
-}
-
-#lets .owl-dot.active {
-  background-color: #1bada3;
-}
-
+#lets 
+	{
+  	padding: 60px 0;
+	}
+#lets img 
+	{
+  	max-width: 100%;
+  	opacity: 0.9;
+  	transition: 0.3s;
+  	padding: 15px 0;
+	}
+#lets img:hover 
+	{
+  	opacity: 1;
+	}
+#lets .owl-nav, #lets .owl-dots 
+	{
+  	margin-top: 5px;
+  	text-align: center;
+	}
+#lets .owl-dot 
+	{
+  	display: inline-block;
+  	margin: 0 5px;
+  	width: 12px;
+  	height: 12px;
+  	border-radius: 50%;
+  	background-color: #ddd;
+	}
+#lets .owl-dot.active 
+	{
+  	background-color: #1bada3;
+	}
 /* End Team */
-
-
-#blog {
+#blog
+	{
     background-size: cover;
     padding: 60px 0 40px 0;
     position: relative;
-}
-h2.post-title {
+	}
+h2.post-title 
+	{
     color: #666;
-}
+	}
 #blog p
-{
+	{
 	color:#666;
-}
-#blog .cta-btn {
+	}
+#blog .cta-btn
+	{
     font-family:"Montserrat", sans-serif;
     text-transform:uppercase;
     font-weight:500;
@@ -1657,3 +1658,4 @@ h2.post-title {
     border:2px solid #fff;
     color:#fff;
 	background-color:#1bada3;
+	}

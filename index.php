@@ -31,7 +31,7 @@
 
 			
 			<div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/banner1.jpg" alt=""></div>
+            <div class="carousel-background"><img src="img/intro-carousel/banner6.png" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>Building the next wave of Indian startups</h2>
@@ -108,7 +108,7 @@
               <h2 class="title"><a href="services.php">Our Services</a></h2>
               
 			<p>
-					  we work as an incubator as well as an accelerator, where we provide you services like seed funding. We will help you build mentor networks and legal services where as our accelerated entrepreneur program is an exceptionally designed platform that focuses on empowering aspirins.<a class="services-btn" href="services.php">Read More</a>
+					  we work as an incubator as well as an accelerator, where we provide you services like seed funding. We will help you build mentor networks and legal services.<a class="services-btn" href="services.php">Read More</a>
               </p>
 				
             </div>

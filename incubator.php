@@ -29,7 +29,7 @@
 
         <header class="section-header">
           <h3>Incubator Program</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>we incubate start-ups at an early stage converting it into a brand by providing them facilities which are the key concern for starting or setting up a business.</p>
         </header>
 
         

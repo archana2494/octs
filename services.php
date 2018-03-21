@@ -22,7 +22,7 @@
 
         <header class="section-header wow fadeInUp">
           <h3>Services</h3>
-          <p>we work as an incubator as well as an accelerator, where we provide you services like seed funding. We will help you build mentor networks and legal services where as our accelerated entrepreneur program is an exceptionally designed platform that focuses on empowering aspirins.</p>
+          <p>we work as an incubator as well as an accelerator, where we provide you services like seed funding. We will help you build mentor networks and legal services. Our accelerator is a program designed to empower entrepreneurs to grow their business manifold. We strive to take your vision to new heights. </p>
         </header>
 
         <div class="row">
